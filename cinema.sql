@@ -1,6 +1,3 @@
--- 401106674 :یسنا نوشیروانی 
--- آیدا جلالی : 401170542
-
 CREATE DATABASE cinema_database;
 
 CREATE TYPE screening_status_enum AS ENUM ('available', 'unavailable');
